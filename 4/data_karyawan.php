@@ -1,12 +1,4 @@
 <?php
-    /*$nama = array("Juggernaut","Axe","Hoodwink","Dazzle","Zeus");
-    $ttl = array("Jakarta, 01 Januari 1998","Bandung, 02 Februari 1998","Bogor, 03 Maret 1998","Bekasi, 04 April 1998","Tanggerang, 05 Mei 1998");
-    $jenis_kelamin = array("Pria","Pria","Pria","Pria","Pria");
-    $level = array("Senior","Junior","Junior","Amateur","Amateur");
-    $status = array("Fulltime","Fulltime","Parttime","Parttime","Fulltime");
-    $gaji = array();*/
-
-
     Class karyawan{
         public $nama;
         public $ttl;
